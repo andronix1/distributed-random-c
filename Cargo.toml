@@ -1,5 +1,5 @@
 [package]
-name = "distributed-random-cxx"
+name = "distributed-random-c"
 version = "0.1.0"
 edition = "2021"
 
