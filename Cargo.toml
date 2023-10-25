@@ -1,0 +1,11 @@
+[package]
+name = "distributed-random-cxx"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["staticlib"]
+
+[dependencies]
+distributed-random = { path = "../distributed-random" }
+libc = "0.2.149"
